@@ -1,0 +1,11 @@
+Kasutaja tuvastamine biomeetriliste meetoditega, 6.6
+IKT riskianalüüside teostamine, 24.9
+IKT turvatestid, 28.8
+Andmete, dokumentidе, e-kirjade krüpteerimine, 30.2
+Turvaintsidendi logifailide kopeerimine ja säilitamine analüüsiks, 35.8
+VPN-i kasutamine, 39.9
+Võrgujuurdepääsu kontroll, 60.0
+Tugev paroolide autentimine, 61.1
+Andmete varundamine eraldi keskkonda, 64.6
+Tarkvara värskemate versioonide kasutamine, 70.7
+Erinevate IKT turvameetodite kasutamine, 86.1
